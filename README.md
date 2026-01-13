@@ -66,10 +66,12 @@ TrainingImage/: Contains captured face samples for training.
 
 
 TrainingImageLabel/: Stores the trained .yml model and password files.
+
+
+
+
+
 Attendance/: Stores the final attendance logs in CSV format.
+
 # Conclusion
 In this project, we have developed a Machine Learning model specifically designed for Student Attendance Systems in educational institutions or any organization where individuals need to record their presence.
-
-
-
-Attendance/: Stores the final attendance logs in CSV format.
