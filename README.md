@@ -1,14 +1,6 @@
 # Attendance-System-Using-Face-Recognition
 This project is a Python-based automated attendance management system that utilizes facial recognition to uniquely identify individuals and record their presence. It aims to replace traditional manual attendance marking, which is often time-consuming and prone to human error.
 
-To add professional details to your GitHub repository, the most effective way is to create or update a README.md file. Based on your project report, here is a structured template you can copy and paste directly into your GitHub repository to make it look professional.
-
-Recommended README Content
-Copy the text between the lines below:
-
-Attendance System using Face Recognition
-This project is a Python-based automated attendance management system that utilizes facial recognition to uniquely identify individuals and record their presence. It aims to replace traditional manual attendance marking, which is often time-consuming and prone to human error.
-
 Features
 
 Real-time Face Detection: Detects faces instantly using a camera feed.
