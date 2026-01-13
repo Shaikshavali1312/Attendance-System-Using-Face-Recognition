@@ -4,7 +4,7 @@ This project is an automated Attendance Management System developed using Python
 
 
 
-🎯 Features
+# 🎯 Features
 
 Real-time Face Detection: Detects faces instantly using a live camera feed.
 
